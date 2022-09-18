@@ -1,0 +1,33 @@
+
+10.2
+280
+10.3
+16.07.2018
+26.03.2019
+27.11.2019
+05.07.2018
+10.4
+26.04.2018 38 dni
+10.5
+najniższy 20
+najwyższy 1700
+11.1
+28.02.2010
+28.02.2011
+28.02.2012
+28.02.2013
+28.02.2015
+11.2
+styczeń: ok.285,47
+luty: ok.292,71
+marzec: ok. 219,24
+kwiecień: ok.139,24
+maj: ok. 129,76
+czerwiec: 61
+liepiec: ok.16,65
+sierpień: ok.15,94
+wrzesień: ok.110,71
+pazdziernik: ok.147,71
+listopad: ok.197,12
+grudzień: ok.246,29
+11.3
