@@ -1,0 +1,4 @@
+83.1 zające 118,06; wilki 43,46
+83.2 zające 53; wilki 98
+
+83.4 zające max 123,32; zające minimum 80,71; wilki max 54,15; wilki minimum 28,05
