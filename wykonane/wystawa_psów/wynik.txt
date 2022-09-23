@@ -1,0 +1,23 @@
+5a
+samice 508
+samce 492
+5b 
+imię	nazwisko
+Edyta	Antczak
+Dagmara	Bielawska
+Kamila	Bugajno
+Pawel	Gabowski
+Eugeniusz	Jaworski
+Kacper	Kaliszewski
+Marcin	Kowal
+Ryszard	Kowalski
+Marcin	Kwiatkowski
+Danuta	Szargawinska
+Anna	Szczupak
+Krystyna	Tobera
+Rafal	Wroclawski
+Maria	Wysocka
+5c
+Krystyna Tobera 41
+5d
+103
