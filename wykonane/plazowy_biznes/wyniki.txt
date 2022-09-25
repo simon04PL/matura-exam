@@ -1,0 +1,3 @@
+5.1	najdłuższy ciąg 15	od 17.08.2022	do 31.08.2022	
+5.3	pierwszym takim dniem był 27.06.2022	utarg wynosił 45576		
+5.4	a	23.09.2022	b	1,24 zł
