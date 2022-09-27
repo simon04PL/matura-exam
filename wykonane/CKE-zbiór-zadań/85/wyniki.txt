@@ -1,0 +1,14 @@
+8.1	41406	
+8.2	8360	
+8.3	pierwszy taki dzień	niedziela, 4 maj 2014
+	ile było takich dni	51
+8.4	kwiecień	72
+	maj	1626
+	czerwiec	1656
+	lipiec	1628
+	sierpień	1243
+	wrzesień	586
+8.5	744	
+8.6	tylko owcze	6811
+	80% owcze	8470
+	60% owcze	11298
