@@ -1,0 +1,16 @@
+4.1 1156
+102
+51
+765
+119
+119
+731
+4.2 liczba: 1129
+wartosc bezwzgledna tej liczby: 8082
+4.3 31
+929
+941
+761
+4.4 roznych cyfr jest: 86
+dokladnie 2: 13
+dokladnie 3: 1
