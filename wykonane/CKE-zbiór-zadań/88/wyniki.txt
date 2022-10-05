@@ -1,0 +1,26 @@
+8.1	ile sprzeda	592
+	ile zostanie na placu	8
+8.3	11	
+8.4	liczba dni dostaw	17
+	dni kiedy była dostawa	
+1
+4
+6
+8
+10
+11
+12
+14
+15
+16
+17
+18
+20
+21
+22
+23
+24
+
+	liczba choinek sprzedanych	819
+8.5	choinki na placu 24 grudzień	35
+	po ile choinek dziennie	21
