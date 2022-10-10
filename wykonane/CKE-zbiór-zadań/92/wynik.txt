@@ -1,0 +1,19 @@
+91.1	ile było tych krajów	54
+	ile łącznie zdobyły te kraje medali	1218
+91.3	Burundi	
+	Kamerun	
+	Zjednoczone Emiraty Arabskie	
+91.4	Afryka	
+	Kenia	86
+	Ameryka Pld.	
+	Brazylia	108
+	Ameryka Pln.	
+	StanyZjednoczone	2681
+	Australia i Oc.	
+	Australia	480
+	Azja	
+	Chiny	526
+	Europa	
+	ZSRR	1204
+91.5	kraje letnie europa	35
+	kraje zimowe europa	3
