@@ -1,0 +1,36 @@
+93.1	Ewelina	Adamska
+93.2	Rzymski	Jan
+	Rzepka	Tomasz
+	Maskor	Paulina
+	Budzianowska	Zofia
+	Kolarski	Andrzej
+	Laska	Justyna
+93.3	miasto	całkowity koszt w danym mieście
+	Bydgoszcz	63932
+	Kalisz	51099
+	Katowice	81486,3
+	Kielce	48014,7
+	Krakow	80344,5
+	Kutno	43372,8
+	Lublin	53209,5
+	Malbork	84280
+	Mielec	54144
+	Olsztyn	50606,6
+	Radom	27599,5
+	Siedlce	34215,4
+	Zgierz	38263,5
+94.4	miesiąc	ile delegacji
+	sty	130
+	lut	68
+	mar	63
+	kwi	32
+	maj	31
+	cze	63
+	lip	70
+	sie	54
+	wrz	121
+	paź	103
+	lis	135
+	gru	130
+93.5	liczba wszystkich delegacji	1,64
+	liczba delegacji co najmniej 2 dniowych	2,25
