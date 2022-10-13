@@ -1,0 +1,40 @@
+wyliczenia	ile studentów rodzice zarabiają <2000 na osobe	857				
+	wyliczenie kryterów aby był cały akademik zapełniony	1000				
+						
+90.1	najwiecej osob o akademik stara się z 	Katowice				
+	jest ich	57				
+	najwięcej studentów z tej miejscowości jet z	Politechnika Informatyczno-Elektroniczna				
+90.2	ile miejsc zostało kryterium <2000	143				
+	jakie kryterium musi być aby były wszystkie miejsca zapełnione	2257				
+90.4	Etykiety wierszy	I	II	III	IV	V
+	Akademia Sztuk Pieknych	32	10	6	2	5
+	Politechnika Informatyczno-Elektroniczna	299	108	48	54	54
+	Politechnika Krolewska	168	59	28	31	25
+	Uniwersytet Ekonomiczny	32	9	3	2	7
+	Uniwersytet Krolewski	233	77	53	32	61
+	Uniwersytet Muzyczny	5	2		1	
+	Uniwersytet Pedagogiczny	31	11	4	2	5
+	Uniwersytet Rolniczy	27	14	7	5	6
+	Uniwersytet Sportu i Turystyki	24	5	6	3	5
+	Wyzsza Szkoła Techniczna	8	1	1		5
+90.5	imię	nazwisko	miejsce zamieszkania	dochód		
+	Kaczmarek	Przemyslaw	Wodzislaw Slaski	1140		
+	Kaczmarek	Tomasz	Wodzislaw Slaski	1140		
+	Kaczmarek	Weronika	Wodzislaw Slaski	1140		
+	Barska	Anna	Ogrodzieniec	1047		
+	Barska	Barbara	Ogrodzieniec	1047		
+	Barski	Krzysztof	Ogrodzieniec	1047		
+	Tomaszewski	Bartosz	Wisla	1511		
+	Tomaszewski	Robert	Wisla	1511		
+	Ostrowska	Boguslawa	Tarnowskie Gory	2466		
+	Ostrowska	Felicja	Tarnowskie Gory	2466		
+	Kotowicz	Klaudia	Katowice	1950		
+	Kotowicz	Tadeusz	Katowice	1950		
+	Jablonski	Piotr	Sanok	1185		
+	Jablonski	Zygmunt	Sanok	1185		
+	Andrzejewska	Iwona	Ruda Slaska	2241		
+	Andrzejewski	Jacek	Ruda Slaska	2241		
+	Bilska	Joanna	Kedzierzyn-Kozle	2807		
+	Bilski	Michał	Kedzierzyn-Kozle	2807		
+	Borkowska	Waclawa	Szczyrk	1683		
+	Borkowski	Sylwester	Szczyrk	1683		
