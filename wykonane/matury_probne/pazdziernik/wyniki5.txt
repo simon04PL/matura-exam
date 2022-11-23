@@ -1,0 +1,9 @@
+5.1
+149213
+5.2
+kraj	PoliczOfid_logu
+Litwa	39
+Australia	39
+Japonia	44
+5.3
+brak takich adresów
