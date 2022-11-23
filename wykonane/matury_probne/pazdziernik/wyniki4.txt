@@ -1,0 +1,17 @@
+4.1	25,65	
+4.2	poniedziałek, 7 kwiecień 2031	
+4.3	miesiąc	ile wykopano
+	maj	25,65
+	czerwiec	20,28
+	lipiec	18,33
+	sierpień	14,27
+	wrzesień	12,53
+	październik	13,02
+	listopad	12,53
+	grudzień	13,02
+	styczeń	13,02
+	luty	11,55
+	marzec	12,53
+	kwiecień	2,7
+4.4	liczba dni z przerwą	58
+	liczba dni z podwójną przerwą	4

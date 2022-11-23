@@ -1,0 +1,55 @@
+99.1
+Plec	PoliczOfNr_ankiety
+k	2779
+m	2781
+99.2
+Rodzaj_szkoly	ŚredniaOfpyt1	ŚredniaOfpyt2	ŚredniaOfpyt3	ŚredniaOfpyt4	ŚredniaOfpyt5	ŚredniaOfpyt6
+G	2,93	2,33	2,51	2,69	2,99	2,96
+LO	3,02	2,27	2,59	2,6	3,01	2,97
+SP	3,52	1,99	2,26	2,65	3,03	3,35
+SZ	3,01	2,21	2,45	2,63	3,09	3,04
+T	3,02	2,01	2,53	2,65	3,07	2,94
+99.3
+Kod_gminy	ŚredniaOfpyt6
+GM07	3,63
+GM08	3,37
+GM17	3,28
+GM01	3,26
+GM15	3,18
+GM12	3,13
+GM11	3,12
+GM09	3,11
+GM02	3,09
+GM06	3,09
+GM13	3,08
+GM16	3,07
+GM19	3,05
+GM03	3,05
+GM10	3,03
+GM04	3,02
+GM05	2,98
+GM20	2,96
+GM18	2,96
+GM14	2,92
+99.4
+Rodzaj_szkoly	PoliczOfNr_ankiety
+G	80
+LO	94
+SP	70
+SZ	12
+T	35
+99.5
+Nazwa_gminy	PoliczOfNr_ankiety
+Lipcowa Rosa	390
+99.6
+Plec	PoliczOfNr_ankiety	Rodzaj_szkoly
+k	130	G
+k	116	LO
+k	276	SP
+k	19	SZ
+k	77	T
+m	119	G
+m	108	LO
+m	307	SP
+m	35	SZ
+m	65	T
