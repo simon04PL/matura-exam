@@ -1,0 +1,18 @@
+5.1 C1	11,8
+C2	11,07
+C3	9,67
+C4	10,62
+C5	10,02
+C6	10,55
+C7	11,13
+P1	17,95
+P2	19,65
+P3	19,98
+P4	20,83
+5.5 
+Albert	Mikos
+Bartlomiej	Gosk
+Igor	Rybarczyk
+Karol	Wojciul
+Krzysztof	Plata
+Robert	Czaja
