@@ -1,0 +1,41 @@
+103.1
+Imie	Nazwisko	Rok	PoliczOfId_badanie
+Waclawa	Grabowska	58	17
+103.2
+NFZ	SumaOfCena_Badania
+Dolnoslaski	14414
+Slaski	8540
+Opolski	8490
+Lubuski	7552
+Pomorski	7351
+Wielkopolski	7080
+Swietokrzyski	5532
+Mazowiecki	5345
+Kujawsko-Pomorski	5317
+Zachodniopomorski	5271
+Lubelski	5097
+Lodzki	4829
+Podlaski	3700
+Podkarpacki	3406
+Małopolski	2399
+Warminsko-Mazurski	358
+103.3
+a)
+Nazwa_badania	PoliczOfId_badanie
+RTG przedramienia	352
+b)
+Nazwa_badania	PoliczOfId_badanie
+RTG przedramienia	337
+103.4
+Plec	PoliczOfPESEL
+k	339
+m	477
+103.5
+Dziesieciolecie	PoliczOfPESEL
+4	2
+5	4
+6	19
+7	95
+8	192
+9	289
+10	215

@@ -1,0 +1,42 @@
+107.1
+miejsce_docelowe	PoliczOfdata
+Warszawa	83
+Dusseldorf	78
+Warszawa Modlin	68
+107.2
+nazwisko	imie	PoliczOfIdentyfikator
+Krankowska	Joanna	16
+Lipinski	Artur	16
+Wilkonska	Marta	18
+Wirowski	Marcin	16
+Wronikowska	Magdalena	19
+107.3
+Miesiąc	PoliczOfIdentyfikator
+4	72
+5	87
+6	95
+107.4
+imie	nazwisko
+Anna	Gumowska
+Amelia	Hanke
+Waldemar	Kowal
+Jan	Krupa
+Mariola	Krupa
+Jakub	Kupinski
+Artur	Lipinski
+Krystyna	Lis
+Beata	Pawlikowska
+Monika	Sibilska
+Jowita	Tobera
+Agnieszka	Waruszewska
+Agata	Wilczek
+Marcin	Wirowski
+Sylwester	Wojtas
+Monika	Zawadzka
+107.5
+miejsce_docelowe	id_lotu
+Bolonia	21
+Barcelona	99
+Warszawa	316
+Liverpool	522
+Oslo Torp	987

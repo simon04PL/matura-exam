@@ -1,0 +1,39 @@
+106.1
+nazwa_zwyczajowa
+bogatka
+sroka
+myszolow
+106.2
+Miesiąc	SumaOfliczebnosc
+5	2
+6	9
+7	3
+8	12
+9	2
+106.3
+nazwa_zwyczajowa	PoliczOfIdentyfikator
+gawron	7
+kawka	16
+kruk	7
+wrona siwa	20
+106.4
+a)
+Minuty	lokalizacja	SumaOfliczebnosc	Data
+960	Tadzino	13	18.07.2014
+b)
+sprawność	lokalizacja	Data
+143,875	Jezioro Zarnowieckie	03.12.2014
+106.5
+a)
+SumaOfliczebnosc
+1624
+b)
+powiat	brak informacji	gniazduje	leci	odpoczywa	zeruje
+chojnicki					2
+gdanski	7		35	3	8
+kartuski			1	6	
+koscierski			120		
+malborski	5				
+pucki	111		580		90
+starogardzki	307				
+wejherowski		22	243	17	67
