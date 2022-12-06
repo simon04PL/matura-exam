@@ -1,0 +1,39 @@
+105.1
+najwieksza faktora:1250
+ilość faktur: 540
+ilość klientów którym faktóre wystawiono więcej niż 1 raz: 33
+105.2
+Miasto	Ile-zamowien
+Bielawa	5
+Jelenia Gora	5
+Olawa	1
+Olesnica	1
+Sobotka	8
+Trzebnica	4
+Walbrzych	5
+Wolow	13
+Wroclaw	33
+Zlotoryja	3
+105-3
+Liczba_sadzonek	Imie	Nazwisko	Nazwa
+11	Dawid	Szubarczyk	Symphytum grandiflorum  Goldsmith
+12	Nadia	Jezierska	Symphytum x uplandicum Axmister s Gold
+12	Nina	Gryczka	Symphytum grandiflorum  Goldsmith
+12	Oliwia	Gondek	Symphytum grandiflorum  Goldsmith
+12	Tymon	Boleski	Symphytum x uplandicum Axmister s Gold
+13	Szymon	Bzówka	Symphytum x uplandicum Axmister s Gold
+14	Lena	Mezynska	Symphytum x uplandicum Axmister s Gold
+14	Oliwia	Gorska	Symphytum grandiflorum  Goldsmith
+105.4
+Nazwa
+Primula japonica
+Carex Comans
+Echinacea Tomato Soup
+Echinacea Black Beauty
+105.5
+Rozmiary_doniczki	Ile-roslin-poszczegolny-rozmiar
+10x10x20	85
+11x11x11	355
+13x13x13	96
+9x9x12	429
+9x9x9	1051

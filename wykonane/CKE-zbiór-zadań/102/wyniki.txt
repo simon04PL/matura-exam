@@ -1,0 +1,26 @@
+102.1
+Ilość zdjęć
+231
+102.2
+Uzytkownicy_1.Imie	Uzytkownicy_1.Nazwisko	Uzytkownicy_1.Kraj	Uzytkownicy.Imie	Uzytkownicy.Nazwisko	Uzytkownicy.Kraj
+Joshua	Nelson	Stany Zjednoczone	Joshua	King	Stany Zjednoczone
+Miguel	Rocha	Brazylia	Miguel	Barbosa	Portugalia
+102.3
+Kraj	PoliczOfID_zdjecia
+Stany Zjednoczone	61
+Kanada	41
+Polska	33
+Wielka Brytania	32
+Niemcy	29
+Brazylia	27
+Hiszpania	26
+Francja	24
+Rosja	24
+Holandia	22
+102.4
+Imie	Nazwisko	Szerokosc	Wysokosc
+Antonio	Reyes	1896	1926
+102.5
+jedna osoba
+Imie	Nazwisko	Kraj
+Sebastian	Quispe	Peru
