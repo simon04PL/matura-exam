@@ -1,0 +1,45 @@
+110.1
+PoliczOfid_miejscowosci
+913
+110.2
+typ_miejscowosci	PoliczOfid_miejscowosci
+kolonia	10
+miasto	3
+osada	47
+osada lesna	12
+przysiolek	1
+wies	148
+110.3
+nazwa_powiatu	nazwa_wojewodztwa
+bielski	podlaskie
+bielski	slaskie
+brzeski	malopolskie
+brzeski	opolskie
+grodziski	mazowieckie
+grodziski	wielkopolskie
+krosnienski	lubuskie
+krosnienski	podkarpackie
+nowodworski	mazowieckie
+nowodworski	pomorskie
+opolski	lubelskie
+opolski	opolskie
+ostrowski	mazowieckie
+ostrowski	wielkopolskie
+sredzki	dolnoslaskie
+sredzki	wielkopolskie
+swidnicki	dolnoslaskie
+swidnicki	lubelskie
+tomaszowski	lodzkie
+tomaszowski	lubelskie
+110.4
+PoliczOfid_gminy
+92
+110.5
+nazwa_wojewodztwa	nazwa_powiatu	nazwa_gminy
+dolnoslaskie	jaworski	Jawor
+dolnoslaskie	Jelenia Gora	Jelenia Gora
+dolnoslaskie	walbrzyski	Jedlina-Zdroj
+mazowieckie	otwocki	Jozefow
+pomorskie	pucki	Jastarnia
+slaskie	Jastrzebie-Zdroj	Jastrzebie-Zdroj
+slaskie	Jaworzno	Jaworzno
