@@ -1,0 +1,26 @@
+6.1
+procenty	Klasa
+30	1a
+27,27	1e
+27,27	1h
+29,03	1i
+6.2
+Punkty	Imie	Nazwisko	Klasa
+50	Marta	Błachnio	1g
+50	Maciej	Lebioda	1a
+50	Dagmara	Różańska	1b
+12	Dominika	Złotowska	1a
+50	Lidia	Zmitrowicz	1e
+6.4
+ID_pytania	1	2	3	4	5	6
+p_1	35	41	47	51	47	42
+p_10	37	47	38	48	46	47
+p_2	51	55	62	43	52	
+p_3	64	52	50	43	54	
+p_4	69	62	62	70		
+p_5	60	46	42	57	58	
+p_6	79	62	62	60		
+p_7	67	66	69	61		
+p_8	37	40	63	38	42	43
+p_9	63	63	40	49	48	
+6.5

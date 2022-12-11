@@ -1,0 +1,30 @@
+5.1		
+		
+5.2	K	435
+	M	565
+5.3	dziesieciolecie	Liczba osób któe przyjeły szczepionke
+	0	128
+	2	103
+	3	130
+	4	95
+	5	102
+	6	105
+	7	112
+	8	115
+	9	110
+5.4	rodzaj szzepionki	K
+	AstraZeneca	49
+	Johnson&Johnson	166
+	Moderna	117
+	Pfizer	103
+5.5	691	
+5.6	któa godzina	Ile osób na daną godzine
+	1	108
+	2	108
+	3	109
+	4	107
+	5	110
+	6	107
+	7	115
+	8	111
+	9	125
