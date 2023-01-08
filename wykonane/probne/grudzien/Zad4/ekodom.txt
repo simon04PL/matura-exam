@@ -1,0 +1,366 @@
+Data	retencja	passa bez deszczu	czy podlewanie	ile w zbiorniku rano	codzienne zu¿ycie	Czy œrodowe z³u¿ycie	czy podlewanie	ile na koniec dnia	ile z wodoci¹gów																				
+sobota, 1 styczeñ 2022	0	1	brak danych	5000	190	0	0	4810	0																				
+niedziela, 2 styczeñ 2022	0	2	brak danych	4810	191	0	0	4619	0																				
+poniedzia³ek, 3 styczeñ 2022	0	3	brak danych	4619	192	0	0	4427	0																	4.1	a)	poz¹tek	pi¹tek, 12 sierpieñ 2022
+wtorek, 4 styczeñ 2022	0	4	brak danych	4427	193	0	0	4234	0																			koniec	czwartek, 1 wrzesieñ 2022
+œroda, 5 styczeñ 2022	0	5	brak danych	4234	194	70	0	3970	0																			liczba dni	21
+czwartek, 6 styczeñ 2022	0	6	brak danych	3970	195	0	0	3775	0																		b)	18	
+pi¹tek, 7 styczeñ 2022	0	7	brak danych	3775	196	0	0	3579	0																	4.2	miesi¹c	retencja ³¹cznie	
+sobota, 8 styczeñ 2022	41	0	brak danych	3620	197	0	0	3423	0																		sty	2452	
+niedziela, 9 styczeñ 2022	79	0	brak danych	3502	198	0	0	3304	0																		lut	1381	
+poniedzia³ek, 10 styczeñ 2022	163	0	brak danych	3467	199	0	0	3268	0																		mar	3755	
+wtorek, 11 styczeñ 2022	259	0	brak danych	3527	200	0	0	3327	0																		kwi	4213	
+œroda, 12 styczeñ 2022	368	0	brak danych	3695	201	70	0	3424	0																		maj	3935	
+czwartek, 13 styczeñ 2022	45	0	brak danych	3469	202	0	0	3267	0																		cze	5566	
+pi¹tek, 14 styczeñ 2022	0	1	brak danych	3267	203	0	0	3064	0																		lip	6516	
+sobota, 15 styczeñ 2022	0	2	brak danych	3064	204	0	0	2860	0																		sie	2698	
+niedziela, 16 styczeñ 2022	0	3	brak danych	2860	205	0	0	2655	0																		wrz	5680	
+poniedzia³ek, 17 styczeñ 2022	0	4	brak danych	2655	206	0	0	2449	0																		paŸ	12225	
+wtorek, 18 styczeñ 2022	0	5	brak danych	2449	207	0	0	2242	0																		lis	14761	
+œroda, 19 styczeñ 2022	0	6	brak danych	2242	208	70	0	1964	0																		gru	840	
+czwartek, 20 styczeñ 2022	0	7	brak danych	1964	209	0	0	1755	0																	4.3	a)	212	
+pi¹tek, 21 styczeñ 2022	0	8	brak danych	1755	210	0	0	1545	0																		b)	75798	
+sobota, 22 styczeñ 2022	0	9	brak danych	1545	211	0	0	1334	0																				
+niedziela, 23 styczeñ 2022	33	0	brak danych	1367	212	0	0	1155	0																				
+poniedzia³ek, 24 styczeñ 2022	75	0	brak danych	1230	213	0	0	1017	0																				
+wtorek, 25 styczeñ 2022	537	0	brak danych	1554	214	0	0	1340	0																				
+œroda, 26 styczeñ 2022	826	0	brak danych	2166	215	70	0	1881	0																				
+czwartek, 27 styczeñ 2022	26	0	brak danych	1907	216	0	0	1691	0																				
+pi¹tek, 28 styczeñ 2022	0	1	brak danych	1691	217	0	0	1474	0																				
+sobota, 29 styczeñ 2022	0	2	brak danych	1474	218	0	0	1256	0																				
+niedziela, 30 styczeñ 2022	0	3	brak danych	1256	219	0	0	1037	0																				
+poniedzia³ek, 31 styczeñ 2022	0	4	brak danych	1037	220	0	0	817	0																				
+wtorek, 1 luty 2022	0	5	brak danych	817	221	0	0	596	0																				
+œroda, 2 luty 2022	0	6	brak danych	596	222	70	0	304	0																				
+czwartek, 3 luty 2022	0	7	brak danych	304	223	0	0	81	0																				
+pi¹tek, 4 luty 2022	0	8	brak danych	81	224	0	0	0	143																				
+sobota, 5 luty 2022	97	0	brak danych	97	225	0	0	0	128																				
+niedziela, 6 luty 2022	0	1	brak danych	0	226	0	0	0	226																				
+poniedzia³ek, 7 luty 2022	99	0	brak danych	99	227	0	0	0	128																				
+wtorek, 8 luty 2022	0	1	brak danych	0	228	0	0	0	228																				
+œroda, 9 luty 2022	0	2	brak danych	0	229	70	0	0	299																				
+czwartek, 10 luty 2022	0	3	brak danych	0	230	0	0	0	230																				
+pi¹tek, 11 luty 2022	97	0	brak danych	97	231	0	0	0	134																				
+sobota, 12 luty 2022	83	0	brak danych	83	232	0	0	0	149																				
+niedziela, 13 luty 2022	77	0	brak danych	77	233	0	0	0	156																				
+poniedzia³ek, 14 luty 2022	195	0	brak danych	195	234	0	0	0	39																				
+wtorek, 15 luty 2022	145	0	brak danych	145	235	0	0	0	90																				
+œroda, 16 luty 2022	90	0	brak danych	90	236	70	0	0	216																				
+czwartek, 17 luty 2022	0	1	brak danych	0	237	0	0	0	237																				
+pi¹tek, 18 luty 2022	0	2	brak danych	0	238	0	0	0	238																				
+sobota, 19 luty 2022	93	0	brak danych	93	239	0	0	0	146																				
+niedziela, 20 luty 2022	0	1	brak danych	0	240	0	0	0	240																				
+poniedzia³ek, 21 luty 2022	0	2	brak danych	0	241	0	0	0	241																				
+wtorek, 22 luty 2022	93	0	brak danych	93	242	0	0	0	149																				
+œroda, 23 luty 2022	0	1	brak danych	0	243	70	0	0	313																				
+czwartek, 24 luty 2022	0	2	brak danych	0	244	0	0	0	244																				
+pi¹tek, 25 luty 2022	0	3	brak danych	0	245	0	0	0	245																				
+sobota, 26 luty 2022	228	0	brak danych	228	246	0	0	0	18																				
+niedziela, 27 luty 2022	0	1	brak danych	0	247	0	0	0	247																				
+poniedzia³ek, 28 luty 2022	84	0	brak danych	84	248	0	0	0	164																				
+wtorek, 1 marzec 2022	90	0	brak danych	90	249	0	0	0	159																				
+œroda, 2 marzec 2022	0	1	brak danych	0	250	70	0	0	320																				
+czwartek, 3 marzec 2022	93	0	brak danych	93	251	0	0	0	158																				
+pi¹tek, 4 marzec 2022	1189	0	brak danych	1189	252	0	0	937	0																				
+sobota, 5 marzec 2022	139	0	brak danych	1076	253	0	0	823	0																				
+niedziela, 6 marzec 2022	0	1	brak danych	823	254	0	0	569	0																				
+poniedzia³ek, 7 marzec 2022	0	2	brak danych	569	255	0	0	314	0																				
+wtorek, 8 marzec 2022	75	0	brak danych	389	256	0	0	133	0																				
+œroda, 9 marzec 2022	612	0	brak danych	745	257	70	0	418	0																				
+czwartek, 10 marzec 2022	0	1	brak danych	418	258	0	0	160	0																				
+pi¹tek, 11 marzec 2022	137	0	brak danych	297	259	0	0	38	0																				
+sobota, 12 marzec 2022	122	0	brak danych	160	260	0	0	0	100																				
+niedziela, 13 marzec 2022	0	1	brak danych	0	261	0	0	0	261																				
+poniedzia³ek, 14 marzec 2022	0	2	brak danych	0	262	0	0	0	262																				
+wtorek, 15 marzec 2022	88	0	brak danych	88	263	0	0	0	175																				
+œroda, 16 marzec 2022	112	0	brak danych	112	264	70	0	0	222																				
+czwartek, 17 marzec 2022	82	0	brak danych	82	265	0	0	0	183																				
+pi¹tek, 18 marzec 2022	174	0	brak danych	174	266	0	0	0	92																				
+sobota, 19 marzec 2022	279	0	brak danych	279	267	0	0	12	0																				
+niedziela, 20 marzec 2022	125	0	brak danych	137	268	0	0	0	131																				
+poniedzia³ek, 21 marzec 2022	123	0	brak danych	123	269	0	0	0	146																				
+wtorek, 22 marzec 2022	108	0	brak danych	108	270	0	0	0	162																				
+œroda, 23 marzec 2022	0	1	brak danych	0	271	70	0	0	341																				
+czwartek, 24 marzec 2022	0	2	brak danych	0	272	0	0	0	272																				
+pi¹tek, 25 marzec 2022	0	3	brak danych	0	273	0	0	0	273																				
+sobota, 26 marzec 2022	0	4	brak danych	0	274	0	0	0	274																				
+niedziela, 27 marzec 2022	0	5	brak danych	0	275	0	0	0	275																				
+poniedzia³ek, 28 marzec 2022	0	6	brak danych	0	276	0	0	0	276																				
+wtorek, 29 marzec 2022	0	7	brak danych	0	277	0	0	0	277																				
+œroda, 30 marzec 2022	0	8	brak danych	0	278	70	0	0	348																				
+czwartek, 31 marzec 2022	207	0	brak danych	207	279	0	0	0	72																				
+pi¹tek, 1 kwiecieñ 2022	1299	0	0	1299	280	0	0	1019	0																				
+sobota, 2 kwiecieñ 2022	218	0	0	1237	281	0	0	956	0																				
+niedziela, 3 kwiecieñ 2022	0	1	0	956	282	0	0	674	0																				
+poniedzia³ek, 4 kwiecieñ 2022	0	2	0	674	283	0	0	391	0																				
+wtorek, 5 kwiecieñ 2022	0	3	0	391	284	0	0	107	0																				
+œroda, 6 kwiecieñ 2022	220	0	0	327	285	70	0	0	28																				
+czwartek, 7 kwiecieñ 2022	72	0	0	72	286	0	0	0	214																				
+pi¹tek, 8 kwiecieñ 2022	0	1	0	0	287	0	0	0	287																				
+sobota, 9 kwiecieñ 2022	0	2	0	0	288	0	0	0	288																				
+niedziela, 10 kwiecieñ 2022	0	3	0	0	289	0	0	0	289																				
+poniedzia³ek, 11 kwiecieñ 2022	0	4	0	0	290	0	0	0	290																				
+wtorek, 12 kwiecieñ 2022	0	5	1	0	291	0	300	0	591																				
+œroda, 13 kwiecieñ 2022	205	0	0	205	292	70	0	0	157																				
+czwartek, 14 kwiecieñ 2022	0	1	0	0	293	0	0	0	293																				
+pi¹tek, 15 kwiecieñ 2022	436	0	0	436	294	0	0	142	0																				
+sobota, 16 kwiecieñ 2022	622	0	0	764	295	0	0	469	0																				
+niedziela, 17 kwiecieñ 2022	34	0	0	503	296	0	0	207	0																				
+poniedzia³ek, 18 kwiecieñ 2022	0	1	0	207	297	0	0	0	90																				
+wtorek, 19 kwiecieñ 2022	0	2	0	0	298	0	0	0	298																				
+œroda, 20 kwiecieñ 2022	0	3	0	0	299	70	0	0	369																				
+czwartek, 21 kwiecieñ 2022	0	4	0	0	300	0	0	0	300																				
+pi¹tek, 22 kwiecieñ 2022	0	5	1	0	301	0	300	0	601																				
+sobota, 23 kwiecieñ 2022	0	6	0	0	302	0	0	0	302																				
+niedziela, 24 kwiecieñ 2022	0	7	0	0	303	0	0	0	303																				
+poniedzia³ek, 25 kwiecieñ 2022	0	8	0	0	304	0	0	0	304																				
+wtorek, 26 kwiecieñ 2022	0	9	0	0	305	0	0	0	305																				
+œroda, 27 kwiecieñ 2022	0	10	1	0	306	70	300	0	676																				
+czwartek, 28 kwiecieñ 2022	36	0	0	36	307	0	0	0	271																				
+pi¹tek, 29 kwiecieñ 2022	542	0	0	542	308	0	0	234	0																				
+sobota, 30 kwiecieñ 2022	529	0	0	763	309	0	0	454	0																				
+niedziela, 1 maj 2022	890	0	0	1344	310	0	0	1034	0																				
+poniedzia³ek, 2 maj 2022	609	0	0	1643	311	0	0	1332	0																				
+wtorek, 3 maj 2022	79	0	0	1411	312	0	0	1099	0																				
+œroda, 4 maj 2022	0	1	0	1099	313	70	0	716	0																				
+czwartek, 5 maj 2022	0	2	0	716	314	0	0	402	0																				
+pi¹tek, 6 maj 2022	0	3	0	402	315	0	0	87	0																				
+sobota, 7 maj 2022	0	4	0	87	316	0	0	0	229																				
+niedziela, 8 maj 2022	0	5	1	0	317	0	300	0	617																				
+poniedzia³ek, 9 maj 2022	0	6	0	0	318	0	0	0	318																				
+wtorek, 10 maj 2022	467	0	0	467	319	0	0	148	0																				
+œroda, 11 maj 2022	234	0	0	382	320	70	0	0	8																				
+czwartek, 12 maj 2022	0	1	0	0	321	0	0	0	321																				
+pi¹tek, 13 maj 2022	0	2	0	0	322	0	0	0	322																				
+sobota, 14 maj 2022	0	3	0	0	323	0	0	0	323																				
+niedziela, 15 maj 2022	0	4	0	0	324	0	0	0	324																				
+poniedzia³ek, 16 maj 2022	65	0	0	65	325	0	0	0	260																				
+wtorek, 17 maj 2022	781	0	0	781	326	0	0	455	0																				
+œroda, 18 maj 2022	778	0	0	1233	327	70	0	836	0																				
+czwartek, 19 maj 2022	32	0	0	868	328	0	0	540	0																				
+pi¹tek, 20 maj 2022	0	1	0	540	329	0	0	211	0																				
+sobota, 21 maj 2022	0	2	0	211	330	0	0	0	119																				
+niedziela, 22 maj 2022	0	3	0	0	331	0	0	0	331																				
+poniedzia³ek, 23 maj 2022	0	4	0	0	332	0	0	0	332																				
+wtorek, 24 maj 2022	0	5	1	0	333	0	300	0	633																				
+œroda, 25 maj 2022	0	6	0	0	334	70	0	0	404																				
+czwartek, 26 maj 2022	0	7	0	0	335	0	0	0	335																				
+pi¹tek, 27 maj 2022	0	8	0	0	336	0	0	0	336																				
+sobota, 28 maj 2022	0	9	0	0	337	0	0	0	337																				
+niedziela, 29 maj 2022	0	10	1	0	338	0	300	0	638																				
+poniedzia³ek, 30 maj 2022	0	11	0	0	339	0	0	0	339																				
+wtorek, 31 maj 2022	0	12	0	0	340	0	0	0	340																				
+œroda, 1 czerwiec 2022	0	13	0	0	341	70	0	0	411																				
+czwartek, 2 czerwiec 2022	18	0	0	18	342	0	0	0	324																				
+pi¹tek, 3 czerwiec 2022	525	0	0	525	343	0	0	182	0																				
+sobota, 4 czerwiec 2022	697	0	0	879	344	0	0	535	0																				
+niedziela, 5 czerwiec 2022	786	0	0	1321	345	0	0	976	0																				
+poniedzia³ek, 6 czerwiec 2022	792	0	0	1768	346	0	0	1422	0																				
+wtorek, 7 czerwiec 2022	0	1	0	1422	347	0	0	1075	0																				
+œroda, 8 czerwiec 2022	0	2	0	1075	348	70	0	657	0																				
+czwartek, 9 czerwiec 2022	0	3	0	657	349	0	0	308	0																				
+pi¹tek, 10 czerwiec 2022	0	4	0	308	350	0	0	0	42																				
+sobota, 11 czerwiec 2022	0	5	1	0	351	0	300	0	651																				
+niedziela, 12 czerwiec 2022	0	6	0	0	352	0	0	0	352																				
+poniedzia³ek, 13 czerwiec 2022	0	7	0	0	353	0	0	0	353																				
+wtorek, 14 czerwiec 2022	0	8	0	0	354	0	0	0	354																				
+œroda, 15 czerwiec 2022	0	9	0	0	355	70	0	0	425																				
+czwartek, 16 czerwiec 2022	0	10	1	0	356	0	300	0	656																				
+pi¹tek, 17 czerwiec 2022	998	0	0	998	357	0	0	641	0																				
+sobota, 18 czerwiec 2022	0	1	0	641	358	0	0	283	0																				
+niedziela, 19 czerwiec 2022	0	2	0	283	359	0	0	0	76																				
+poniedzia³ek, 20 czerwiec 2022	0	3	0	0	360	0	0	0	360																				
+wtorek, 21 czerwiec 2022	0	4	0	0	361	0	0	0	361																				
+œroda, 22 czerwiec 2022	0	5	1	0	362	70	300	0	732																				
+czwartek, 23 czerwiec 2022	0	6	0	0	363	0	0	0	363																				
+pi¹tek, 24 czerwiec 2022	0	7	0	0	364	0	0	0	364																				
+sobota, 25 czerwiec 2022	0	8	0	0	365	0	0	0	365																				
+niedziela, 26 czerwiec 2022	540	0	0	540	366	0	0	174	0																				
+poniedzia³ek, 27 czerwiec 2022	607	0	0	781	367	0	0	414	0																				
+wtorek, 28 czerwiec 2022	603	0	0	1017	368	0	0	649	0																				
+œroda, 29 czerwiec 2022	0	1	0	649	369	70	0	210	0																				
+czwartek, 30 czerwiec 2022	0	2	0	210	370	0	0	0	160																				
+pi¹tek, 1 lipiec 2022	0	3	0	0	371	0	0	0	371																				
+sobota, 2 lipiec 2022	0	4	0	0	372	0	0	0	372																				
+niedziela, 3 lipiec 2022	0	5	1	0	373	0	300	0	673																				
+poniedzia³ek, 4 lipiec 2022	0	6	0	0	374	0	0	0	374																				
+wtorek, 5 lipiec 2022	0	7	0	0	375	0	0	0	375																				
+œroda, 6 lipiec 2022	527	0	0	527	376	70	0	81	0																				
+czwartek, 7 lipiec 2022	619	0	0	700	377	0	0	323	0																				
+pi¹tek, 8 lipiec 2022	0	1	0	323	378	0	0	0	55																				
+sobota, 9 lipiec 2022	0	2	0	0	379	0	0	0	379																				
+niedziela, 10 lipiec 2022	0	3	0	0	380	0	0	0	380																				
+poniedzia³ek, 11 lipiec 2022	170	0	0	170	381	0	0	0	211																				
+wtorek, 12 lipiec 2022	13	0	0	13	382	0	0	0	369																				
+œroda, 13 lipiec 2022	0	1	0	0	383	70	0	0	453																				
+czwartek, 14 lipiec 2022	0	2	0	0	384	0	0	0	384																				
+pi¹tek, 15 lipiec 2022	0	3	0	0	385	0	0	0	385																				
+sobota, 16 lipiec 2022	0	4	0	0	386	0	0	0	386																				
+niedziela, 17 lipiec 2022	518	0	0	518	387	0	0	131	0																				
+poniedzia³ek, 18 lipiec 2022	791	0	0	922	388	0	0	534	0																				
+wtorek, 19 lipiec 2022	673	0	0	1207	389	0	0	818	0																				
+œroda, 20 lipiec 2022	601	0	0	1419	390	70	0	959	0																				
+czwartek, 21 lipiec 2022	612	0	0	1571	391	0	0	1180	0																				
+pi¹tek, 22 lipiec 2022	705	0	0	1885	392	0	0	1493	0																				
+sobota, 23 lipiec 2022	0	1	0	1493	393	0	0	1100	0																				
+niedziela, 24 lipiec 2022	0	2	0	1100	394	0	0	706	0																				
+poniedzia³ek, 25 lipiec 2022	1100	0	0	1806	395	0	0	1411	0																				
+wtorek, 26 lipiec 2022	118	0	0	1529	396	0	0	1133	0																				
+œroda, 27 lipiec 2022	69	0	0	1202	397	70	0	735	0																				
+czwartek, 28 lipiec 2022	0	1	0	735	398	0	0	337	0																				
+pi¹tek, 29 lipiec 2022	0	2	0	337	399	0	0	0	62																				
+sobota, 30 lipiec 2022	0	3	0	0	400	0	0	0	400																				
+niedziela, 31 lipiec 2022	0	4	0	0	401	0	0	0	401																				
+poniedzia³ek, 1 sierpieñ 2022	0	5	1	0	402	0	300	0	702																				
+wtorek, 2 sierpieñ 2022	0	6	0	0	403	0	0	0	403																				
+œroda, 3 sierpieñ 2022	0	7	0	0	404	70	0	0	474																				
+czwartek, 4 sierpieñ 2022	0	8	0	0	405	0	0	0	405																				
+pi¹tek, 5 sierpieñ 2022	0	9	0	0	406	0	0	0	406																				
+sobota, 6 sierpieñ 2022	0	10	1	0	407	0	300	0	707																				
+niedziela, 7 sierpieñ 2022	0	11	0	0	408	0	0	0	408																				
+poniedzia³ek, 8 sierpieñ 2022	660	0	0	660	409	0	0	251	0																				
+wtorek, 9 sierpieñ 2022	1245	0	0	1496	410	0	0	1086	0																				
+œroda, 10 sierpieñ 2022	745	0	0	1831	411	70	0	1350	0																				
+czwartek, 11 sierpieñ 2022	48	0	0	1398	412	0	0	986	0																				
+pi¹tek, 12 sierpieñ 2022	0	1	0	986	413	0	0	573	0																				
+sobota, 13 sierpieñ 2022	0	2	0	573	414	0	0	159	0																				
+niedziela, 14 sierpieñ 2022	0	3	0	159	415	0	0	0	256																				
+poniedzia³ek, 15 sierpieñ 2022	0	4	0	0	416	0	0	0	416																				
+wtorek, 16 sierpieñ 2022	0	5	1	0	417	0	300	0	717																				
+œroda, 17 sierpieñ 2022	0	6	0	0	418	70	0	0	488																				
+czwartek, 18 sierpieñ 2022	0	7	0	0	419	0	0	0	419																				
+pi¹tek, 19 sierpieñ 2022	0	8	0	0	420	0	0	0	420																				
+sobota, 20 sierpieñ 2022	0	9	0	0	421	0	0	0	421																				
+niedziela, 21 sierpieñ 2022	0	10	1	0	422	0	300	0	722																				
+poniedzia³ek, 22 sierpieñ 2022	0	11	0	0	423	0	0	0	423																				
+wtorek, 23 sierpieñ 2022	0	12	0	0	424	0	0	0	424																				
+œroda, 24 sierpieñ 2022	0	13	0	0	425	70	0	0	495																				
+czwartek, 25 sierpieñ 2022	0	14	0	0	426	0	0	0	426																				
+pi¹tek, 26 sierpieñ 2022	0	15	1	0	427	0	300	0	727																				
+sobota, 27 sierpieñ 2022	0	16	0	0	428	0	0	0	428																				
+niedziela, 28 sierpieñ 2022	0	17	0	0	429	0	0	0	429																				
+poniedzia³ek, 29 sierpieñ 2022	0	18	0	0	430	0	0	0	430																				
+wtorek, 30 sierpieñ 2022	0	19	0	0	431	0	0	0	431																				
+œroda, 31 sierpieñ 2022	0	20	1	0	432	70	300	0	802																				
+czwartek, 1 wrzesieñ 2022	0	21	0	0	433	0	0	0	433																				
+pi¹tek, 2 wrzesieñ 2022	388	0	0	388	434	0	0	0	46																				
+sobota, 3 wrzesieñ 2022	415	0	0	415	435	0	0	0	20																				
+niedziela, 4 wrzesieñ 2022	560	0	0	560	436	0	0	124	0																				
+poniedzia³ek, 5 wrzesieñ 2022	467	0	0	591	437	0	0	154	0																				
+wtorek, 6 wrzesieñ 2022	517	0	0	671	438	0	0	233	0																				
+œroda, 7 wrzesieñ 2022	552	0	0	785	439	70	0	276	0																				
+czwartek, 8 wrzesieñ 2022	0	1	0	276	440	0	0	0	164																				
+pi¹tek, 9 wrzesieñ 2022	0	2	0	0	441	0	0	0	441																				
+sobota, 10 wrzesieñ 2022	0	3	0	0	442	0	0	0	442																				
+niedziela, 11 wrzesieñ 2022	0	4	0	0	443	0	0	0	443																				
+poniedzia³ek, 12 wrzesieñ 2022	435	0	0	435	444	0	0	0	9																				
+wtorek, 13 wrzesieñ 2022	406	0	0	406	445	0	0	0	39																				
+œroda, 14 wrzesieñ 2022	0	1	0	0	446	70	0	0	516																				
+czwartek, 15 wrzesieñ 2022	0	2	0	0	447	0	0	0	447																				
+pi¹tek, 16 wrzesieñ 2022	0	3	0	0	448	0	0	0	448																				
+sobota, 17 wrzesieñ 2022	0	4	0	0	449	0	0	0	449																				
+niedziela, 18 wrzesieñ 2022	0	5	1	0	450	0	300	0	750																				
+poniedzia³ek, 19 wrzesieñ 2022	353	0	0	353	451	0	0	0	98																				
+wtorek, 20 wrzesieñ 2022	476	0	0	476	452	0	0	24	0																				
+œroda, 21 wrzesieñ 2022	383	0	0	407	453	70	0	0	116																				
+czwartek, 22 wrzesieñ 2022	0	1	0	0	454	0	0	0	454																				
+pi¹tek, 23 wrzesieñ 2022	0	2	0	0	455	0	0	0	455																				
+sobota, 24 wrzesieñ 2022	0	3	0	0	456	0	0	0	456																				
+niedziela, 25 wrzesieñ 2022	0	4	0	0	457	0	0	0	457																				
+poniedzia³ek, 26 wrzesieñ 2022	0	5	1	0	458	0	300	0	758																				
+wtorek, 27 wrzesieñ 2022	0	6	0	0	459	0	0	0	459																				
+œroda, 28 wrzesieñ 2022	0	7	0	0	460	70	0	0	530																				
+czwartek, 29 wrzesieñ 2022	302	0	0	302	461	0	0	0	159																				
+pi¹tek, 30 wrzesieñ 2022	426	0	0	426	462	0	0	0	36																				
+sobota, 1 paŸdziernik 2022	456	0	brak danych	456	463	0	0	0	7																				
+niedziela, 2 paŸdziernik 2022	568	0	brak danych	568	464	0	0	104	0																				
+poniedzia³ek, 3 paŸdziernik 2022	1182	0	brak danych	1286	465	0	0	821	0																				
+wtorek, 4 paŸdziernik 2022	0	1	brak danych	821	466	0	0	355	0																				
+œroda, 5 paŸdziernik 2022	0	2	brak danych	355	467	70	0	0	182																				
+czwartek, 6 paŸdziernik 2022	0	3	brak danych	0	468	0	0	0	468																				
+pi¹tek, 7 paŸdziernik 2022	0	4	brak danych	0	469	0	0	0	469																				
+sobota, 8 paŸdziernik 2022	0	5	brak danych	0	470	0	0	0	470																				
+niedziela, 9 paŸdziernik 2022	0	6	brak danych	0	471	0	0	0	471																				
+poniedzia³ek, 10 paŸdziernik 2022	1170	0	brak danych	1170	472	0	0	698	0																				
+wtorek, 11 paŸdziernik 2022	695	0	brak danych	1393	473	0	0	920	0																				
+œroda, 12 paŸdziernik 2022	644	0	brak danych	1564	474	70	0	1020	0																				
+czwartek, 13 paŸdziernik 2022	0	1	brak danych	1020	475	0	0	545	0																				
+pi¹tek, 14 paŸdziernik 2022	0	2	brak danych	545	476	0	0	69	0																				
+sobota, 15 paŸdziernik 2022	0	3	brak danych	69	477	0	0	0	408																				
+niedziela, 16 paŸdziernik 2022	0	4	brak danych	0	478	0	0	0	478																				
+poniedzia³ek, 17 paŸdziernik 2022	0	5	brak danych	0	479	0	0	0	479																				
+wtorek, 18 paŸdziernik 2022	0	6	brak danych	0	480	0	0	0	480																				
+œroda, 19 paŸdziernik 2022	0	7	brak danych	0	481	70	0	0	551																				
+czwartek, 20 paŸdziernik 2022	0	8	brak danych	0	482	0	0	0	482																				
+pi¹tek, 21 paŸdziernik 2022	0	9	brak danych	0	483	0	0	0	483																				
+sobota, 22 paŸdziernik 2022	1084	0	brak danych	1084	484	0	0	600	0																				
+niedziela, 23 paŸdziernik 2022	1423	0	brak danych	2023	485	0	0	1538	0																				
+poniedzia³ek, 24 paŸdziernik 2022	1315	0	brak danych	2853	486	0	0	2367	0																				
+wtorek, 25 paŸdziernik 2022	717	0	brak danych	3084	487	0	0	2597	0																				
+œroda, 26 paŸdziernik 2022	1398	0	brak danych	3995	488	70	0	3437	0																				
+czwartek, 27 paŸdziernik 2022	913	0	brak danych	4350	489	0	0	3861	0																				
+pi¹tek, 28 paŸdziernik 2022	660	0	brak danych	4521	490	0	0	4031	0																				
+sobota, 29 paŸdziernik 2022	0	1	brak danych	4031	491	0	0	3540	0																				
+niedziela, 30 paŸdziernik 2022	0	2	brak danych	3540	492	0	0	3048	0																				
+poniedzia³ek, 31 paŸdziernik 2022	0	3	brak danych	3048	493	0	0	2555	0																				
+wtorek, 1 listopad 2022	0	4	brak danych	2555	494	0	0	2061	0																				
+œroda, 2 listopad 2022	0	5	brak danych	2061	495	70	0	1496	0																				
+czwartek, 3 listopad 2022	935	0	brak danych	2431	496	0	0	1935	0																				
+pi¹tek, 4 listopad 2022	648	0	brak danych	2583	497	0	0	2086	0																				
+sobota, 5 listopad 2022	793	0	brak danych	2879	498	0	0	2381	0																				
+niedziela, 6 listopad 2022	1276	0	brak danych	3657	499	0	0	3158	0																				
+poniedzia³ek, 7 listopad 2022	1234	0	brak danych	4392	500	0	0	3892	0																				
+wtorek, 8 listopad 2022	1302	0	brak danych	5194	501	0	0	4693	0																				
+œroda, 9 listopad 2022	1316	0	brak danych	6009	502	70	0	5437	0																				
+czwartek, 10 listopad 2022	1463	0	brak danych	6900	503	0	0	6397	0																				
+pi¹tek, 11 listopad 2022	771	0	brak danych	7168	504	0	0	6664	0																				
+sobota, 12 listopad 2022	0	1	brak danych	6664	505	0	0	6159	0																				
+niedziela, 13 listopad 2022	0	2	brak danych	6159	506	0	0	5653	0																				
+poniedzia³ek, 14 listopad 2022	0	3	brak danych	5653	507	0	0	5146	0																				
+wtorek, 15 listopad 2022	0	4	brak danych	5146	508	0	0	4638	0																				
+œroda, 16 listopad 2022	0	5	brak danych	4638	509	70	0	4059	0																				
+czwartek, 17 listopad 2022	0	6	brak danych	4059	510	0	0	3549	0																				
+pi¹tek, 18 listopad 2022	0	7	brak danych	3549	511	0	0	3038	0																				
+sobota, 19 listopad 2022	816	0	brak danych	3854	512	0	0	3342	0																				
+niedziela, 20 listopad 2022	734	0	brak danych	4076	513	0	0	3563	0																				
+poniedzia³ek, 21 listopad 2022	1097	0	brak danych	4660	514	0	0	4146	0																				
+wtorek, 22 listopad 2022	640	0	brak danych	4786	515	0	0	4271	0																				
+œroda, 23 listopad 2022	0	1	brak danych	4271	516	70	0	3685	0																				
+czwartek, 24 listopad 2022	0	2	brak danych	3685	517	0	0	3168	0																				
+pi¹tek, 25 listopad 2022	1066	0	brak danych	4234	518	0	0	3716	0																				
+sobota, 26 listopad 2022	670	0	brak danych	4386	519	0	0	3867	0																				
+niedziela, 27 listopad 2022	0	1	brak danych	3867	520	0	0	3347	0																				
+poniedzia³ek, 28 listopad 2022	0	2	brak danych	3347	521	0	0	2826	0																				
+wtorek, 29 listopad 2022	0	3	brak danych	2826	522	0	0	2304	0																				
+œroda, 30 listopad 2022	0	4	brak danych	2304	523	70	0	1711	0																				
+czwartek, 1 grudzieñ 2022	0	5	brak danych	1711	524	0	0	1187	0																				
+pi¹tek, 2 grudzieñ 2022	0	6	brak danych	1187	525	0	0	662	0																				
+sobota, 3 grudzieñ 2022	0	7	brak danych	662	526	0	0	136	0																				
+niedziela, 4 grudzieñ 2022	0	8	brak danych	136	527	0	0	0	391																				
+poniedzia³ek, 5 grudzieñ 2022	29	0	brak danych	29	528	0	0	0	499																				
+wtorek, 6 grudzieñ 2022	46	0	brak danych	46	529	0	0	0	483																				
+œroda, 7 grudzieñ 2022	0	1	brak danych	0	530	70	0	0	600																				
+czwartek, 8 grudzieñ 2022	0	2	brak danych	0	531	0	0	0	531																				
+pi¹tek, 9 grudzieñ 2022	0	3	brak danych	0	532	0	0	0	532																				
+sobota, 10 grudzieñ 2022	0	4	brak danych	0	533	0	0	0	533																				
+niedziela, 11 grudzieñ 2022	0	5	brak danych	0	534	0	0	0	534																				
+poniedzia³ek, 12 grudzieñ 2022	0	6	brak danych	0	535	0	0	0	535																				
+wtorek, 13 grudzieñ 2022	145	0	brak danych	145	536	0	0	0	391																				
+œroda, 14 grudzieñ 2022	0	1	brak danych	0	537	70	0	0	607																				
+czwartek, 15 grudzieñ 2022	0	2	brak danych	0	538	0	0	0	538																				
+pi¹tek, 16 grudzieñ 2022	24	0	brak danych	24	539	0	0	0	515																				
+sobota, 17 grudzieñ 2022	0	1	brak danych	0	540	0	0	0	540																				
+niedziela, 18 grudzieñ 2022	0	2	brak danych	0	541	0	0	0	541																				
+poniedzia³ek, 19 grudzieñ 2022	45	0	brak danych	45	542	0	0	0	497																				
+wtorek, 20 grudzieñ 2022	97	0	brak danych	97	543	0	0	0	446																				
+œroda, 21 grudzieñ 2022	0	1	brak danych	0	544	70	0	0	614																				
+czwartek, 22 grudzieñ 2022	22	0	brak danych	22	545	0	0	0	523																				
+pi¹tek, 23 grudzieñ 2022	0	1	brak danych	0	546	0	0	0	546																				
+sobota, 24 grudzieñ 2022	0	2	brak danych	0	547	0	0	0	547																				
+niedziela, 25 grudzieñ 2022	0	3	brak danych	0	548	0	0	0	548																				
+poniedzia³ek, 26 grudzieñ 2022	135	0	brak danych	135	549	0	0	0	414																				
+wtorek, 27 grudzieñ 2022	0	1	brak danych	0	550	0	0	0	550																				
+œroda, 28 grudzieñ 2022	153	0	brak danych	153	551	70	0	0	468																				
+czwartek, 29 grudzieñ 2022	0	1	brak danych	0	552	0	0	0	552																				
+pi¹tek, 30 grudzieñ 2022	0	2	brak danych	0	553	0	0	0	553																				
+sobota, 31 grudzieñ 2022	144	0	brak danych	144	554	0	0	0	410																				

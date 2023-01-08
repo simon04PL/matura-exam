@@ -1,0 +1,20 @@
+4.1	a)	pozątek	piątek, 12 sierpień 2022
+		koniec	czwartek, 1 wrzesień 2022
+		liczba dni	21
+	b)	18	
+4.2	miesiąc	retencja w danym miesiącu	
+	sty	2452	
+	lut	1381	
+	mar	3755	
+	kwi	4213	
+	maj	3935	
+	cze	5566	
+	lip	6516	
+	sie	2698	
+	wrz	5680	
+	paź	12225	
+	lis	14761	
+	gru	840	
+4.3	a)	93	
+	b)	19152	
+	

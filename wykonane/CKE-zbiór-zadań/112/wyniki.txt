@@ -1,0 +1,65 @@
+112.1
+rodzaj	PoliczOfKodKraju
+bakalie	2
+baton	5
+bombonierka	4
+ciastka	3
+ciasto	1
+cukierki	4
+czekolada	9
+deser	2
+dodatki	1
+miod	1
+napoje	2
+przekaska	2
+przetwory zbozowe	3
+uzywki	5
+112.2
+nazwa_firmy	lokalizacja
+Kraft-Foods	Praha, Rohansky Ostrov
+Pacific	Antwerpia
+Hoop	Brno
+Mokate	Votice
+Kraft-Foods	Praha, Karolinska
+112.3
+rodzaj	nazwa	masa
+przetwory zbozowe	FITNESS Z CZEKOLADA I POMARANCZA 6-PAK PLATKI I MLEKO	20
+przekaska	NIC NAC'S	37
+czekolada	MLECZNA	15
+bakalie	MIGDALY BLANSZOWANE	50
+bombonierka	ROCHER T3X16X6 FLO B POL 11	37
+baton	MARCEPAN	28
+ciasto	FIX DO KARPATEK	40
+dodatki	BARWNIKI DO JAJEK	3
+uzywki	LA MATTINA CAPPUCCINO WANILIOWE PALUCH	12
+uzywki	LA MATTINA CAPPUCCINO CLASSIC PALUCH	12
+uzywki	LA MATTINA CAPPUCCINO CZEKOLADOWE PALUCH	12
+uzywki	LA MATTINA CAPPUCCINO ORZECHOWE PALUCH	12
+uzywki	LA MATTINA CAPPUCCINO SMIETANKOWE PALUCH	12
+uzywki	LA MATTINA CAPPUCCINO Z MAGNEZEM PALUCH	12
+miod	MIOD PORCJOWANY	15
+deser	KREM O`LADA  SCOOBY DOO	25
+cukierki	FIGURKA	6
+ciastka	PRINCE POLO ORZECHOWE	17
+napoje	JUPIK BANAN	300
+112.4
+nazwa	masa	kraj	nazwa_firmy
+BANG BANG	1200	Polska	Millano Baron
+KINDER DELICE KAKAO	420	Wlochy	Ferrero
+KINDER DUPLO T	364	Niemcy	Ferrero
+MILKA ALPEJSKIE MLECZKO CZEKOLADOWE	350	Szwajcaria	Kraft-Foods
+MILKA ALPEJSKIE MLECZKO WANILIOWE	350	Szwajcaria	Kraft-Foods
+NUTELLA G670X6 VT PR POL 11	670	Polska	Ferrero
+112.5
+kraj	0_05	0_08	0_23
+Austria	3	4	
+Belgia			7
+Czechy	20		9
+Francja	1		3
+Hiszpania			1
+Niemcy	3	16	28
+Polska	146	220	496
+Slowacja			4
+Szwajcaria			56
+Wegry			3
+Wlochy			24
