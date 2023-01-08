@@ -1,0 +1,26 @@
+5.1
+Liczba Nocy	imie	nazwisko
+9	Mateusz	Tokarczyk
+5.2
+imie	nazwisko
+Marcin	Bober
+Anna	Poplawska
+Mateusz	Slomka
+5.3
+nr_pokoju
+104
+107
+109
+110
+114
+117
+207
+215
+306
+310
+314
+402
+411
+415
+416
+418

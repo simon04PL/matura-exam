@@ -1,0 +1,3 @@
+1.1: 5030
+1.2: wygrala druzyna: B wynikiem: A: 1001 B: 1004
+1.3: najdluzsza: 15 Druzyna: A bylo ich: 6
