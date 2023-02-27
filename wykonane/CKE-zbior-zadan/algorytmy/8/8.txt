@@ -1,0 +1,10 @@
+8.1
+fałsz	7
+prawda	2
+
+8.2
+gdy co najmniej jeden element pasuje tak, że elemant z tablicy A po dodaniu elementu z tablicy B daje nam liczbe x
+gdy żaden element z tablicy A po dodaniu do któregoś z tabeli B nie daje nam liczby x
+
+8.3
+[8;9;11;12;15]; [1;5;8;10;13]

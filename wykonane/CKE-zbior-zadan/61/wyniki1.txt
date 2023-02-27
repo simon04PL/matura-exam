@@ -1,0 +1,2 @@
+ile jest ciagow arytmetycznych: 44
+najwieksza roznica wynosi: 246849

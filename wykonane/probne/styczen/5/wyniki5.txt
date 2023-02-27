@@ -1,0 +1,234 @@
+5.1
+minuty
+960
+5.2
+SumaOfliczebnosc	nazwa_zwyczajowa
+41883	zieba
+5.3
+nazwa_zwyczajowa	1	2	3	4	5	6	7	8	9	10	11	12
+alczyk												1
+alka			6								2	
+bak				9	5					2		
+batalion				10		3		4	10			
+bazant			1		5					28	16	47
+bazant zlocisty				1								
+bernikla bialolica	2		82	2	8	1				1		7
+bialorzytka				2	16	1		1	2			
+biegus krzywodzioby							1	22	3			
+biegus malutki								4	12			
+biegus maly					3			1				
+biegus morski			1									
+biegus plaskodzioby								1				
+biegus rdzawy								3	60			
+biegus zmienny					1	3	42	89	46	80		
+bielaczek	234	62	41	19								13
+bielik	9	12	21	11	9	3		2	3	6	1	4
+blotniak lakowy				6	3							
+blotniak stawowy			7	88	47	5	9	1	1	1		
+blotniak zbozowy			1	14	4							1
+bocian bialy			1	10	28	16	20	29				
+bocian czarny								2				
+bogatka	375	172	3152	519	37	9	12	28	20	109	148	356
+brodziec piskliwy				15	8	1	5	12	2			
+brodziec sniady					3	2		11	4			
+brzeczka				2	6	1						
+brzegowka				4		18	6					
+cierniowka				2	3	2	2	2	1			
+cyraneczka	2		28	37	16	32	8	8	64	43		
+cyranka				4	7							
+czajka		31	419	9	27	8	21		600	30	4	2
+czapla biala				21	18	1	1	17	17	2		
+czapla siwa	1	16	57	24	28	10	30	23	14	39	21	33
+czarnoglowka	11	9		5		2			4	19	5	2
+czarnowron			2	2	4				2			
+czeczotka		20	64	4						9		
+czernica	67	572	60	1062	95			1	27	170	8500	1011
+czubatka	1	4	1	3	1					12	5	
+czyz	339	93	599	12328	1033	1			2	64	96	183
+derkacz						2						
+drozdzik			1	52	1				20			5
+drzemlik				10	3						1	
+dymowka				19	75	5	25	64	58	1		
+dzieciol czarny	2	2	1	7	5				1	3		
+dzieciol duzy	21	35	16	12	8	2		3	7	9	6	7
+dzieciol sredni	1	2	1							3	2	6
+dzieciol zielonosiwy				1								
+dzieciol zielony	1	1		1	2				4	2		1
+dzieciolek						1						
+dziwonia					11	47	1	1				
+dzwoniec	176	72	349	100	18	2	3	3	8	106	38	23
+edredon	8	96	16	1	8				7		4	17
+gagol	633	1936	165	5	13	27	20	22	30	13	80	156
+gajowka					6	5	1					
+gasiorek					8	8	5	5	8			
+gawron	97	59	1148	126	187		20	43		142	46	40
+gegawa	67	65	242	77	71	9	13	91	1	958	9	220
+ges bialoczelna				51	4					70	10	
+ges zbozowa			279	13						736	5	
+gil	50	18	50	24			2		1		42	39
+glowienka	4	2		2			2	2	8	182	801	700
+golab miejski	346		43	28	40	9	6	30		72	33	48
+grubodziob	48	46	26	23	7	1	3	5	10	7	21	12
+grzywacz		14	2169	5226	119	11	18	38	8	58	6	
+helmiatka										2		
+jarzebatka						1						
+jastrzab		1	3	3		1	1	3		9	3	8
+jemioluszka	203	434			32						27	18
+jer	6	76	4	242						1	1	
+jerzyk					40	20	13	33				
+kamusznik							1	1				
+kania czarna				2	1							
+kania ruda			3	11	4	2				1		
+kapturka				7	7	7	1		5	2		
+karolinka	9	2	3									2
+kawka	158	107	816	154	82	5		26	1	130	5	28
+klaskawka					1	1						
+kobczyk				2					1			
+kobuz				13	17			1	1	1		
+kokoszka					1	2		4	1			
+kopciuszek			6	15	18		10	25	6	9		2
+kormoran		539	220	24	6		10	169	424	45	1835	30
+kos	54	38	148	36	8	5	5	8	19	54	9	20
+kowalik	73	10	7	11		1	2			6	4	6
+krakwa			5	11	14	3		11	1	4	1	
+kretoglow				2	3	1			4			
+krogulec	8	4	44	538	119		5	4	7	9	1	2
+kropiatka						1						
+kruk	22	61	149	37	10	3	10	15	101	42	26	12
+krwawodziob				4	7	4	1	17	5			
+krzyzodziob swierkowy		2	272	289	4							
+krzyzowka	4505	1626	82	173	85	80	76	23	4	98	2948	1421
+kszyk			1	4	5	3	1	1	4	1	1	
+kukulka				1	9	14	3		1			
+kulczyk				6	2	6	2		4			
+kulik wielki				1	1	12	12	7	2			14
+kuropatwa			13							26	12	67
+kwiczol	42	49	16	25	3	3	1	8	13	37	114	141
+kwokacz				2	6		1	19	14			
+labedz czarnodzioby										33	2	1
+labedz krzykliwy	25	43	51	2	4					1	85	51
+labedz niemy	167	302	754	52	37	14	9	20	20	110	33	244
+leczak				6	18	3	7	3	10			
+lerka			88	7	1		1					
+lodowka	200	553	1024	352	89					92	145	36
+lozowka					2	16						
+lyska	127	252	384	19	1	4		135		2140	3225	5560
+makolagwa				8	6	12	14	11	34			
+markaczka		105	364	434	9			1	21	37		3
+mazurek	289	104	71	21	14	3	1	9	4	447	598	620
+mewa bialoglowa		1	31	1	86		30	30	1	101	103	55
+mewa blada	1										4	
+mewa czarnoglowa				1				1				
+mewa mala		1	2	32	47	80	3	8	3	16	2	13
+mewa siodlata	76	66	38	2	8	1	3	15	38	33	49	
+mewa siwa	53	41	5	3	26	3		101	30		3	1
+mewa srebrzysta	73	3043	403	9	19	5	4	32	42	423	292	3
+mewa zoltonoga			2	10	2					3	5	
+modraszka	163	67	594	190	7	7			3	14	23	34
+mucholowka mala									1			
+mucholowka szara						2		2	1			
+mucholowka zalobna				11	3	1			1			
+mysikrolik	15	2	3	6		1				55	6	
+myszolow	25	16	1964	95	30	5	7	6	9	17	10	17
+myszolow wlochaty		1	11	15	9					1		2
+nur czarnoszyi			7	3	2				2	2	5	
+nur rdzawoszyi			7									
+nurnik		1								6		
+nuroges	195	1349	83	24	37		2	4	3	30	2	48
+nurzyk				1								
+ogorzalka		75	1		4					25	3001	41
+ohar			38	30	66	46	10	3	1			
+oknowka				3	24	21	14	27	3	1		
+orlik krzykliwy							1					
+orzechowka	1											
+ostrygojad				5	1	13	2		4	3		
+paszkot	15	4	47		3	1		1	6			5
+pelzacz lesny	13	3	5	2	4			1		1	2	3
+pelzacz ogrodowy	1	2		1		2		2		1		
+perkoz dwuczuby		44	12	33	4	25	279	85		44	81	4
+perkoz rdzawoszyi			1		1							
+perkoz rogaty		1							1	2	3	
+perkozek		2	1	4	3			2	8			10
+piaskowiec							3	1	4			
+piecuszek				3	7	1		4	4			
+piegza				1	8	4	1	1				
+pierwiosnek			2	6	1	12	2	1	4	1	1	
+plaskonos	2	2		6	34	28		4	7	2		1
+platkonog szydlodzioby									2			
+pleszka				13	14	8		5				
+pliszka cytrynowa					50	38		2				
+pliszka gorska					1	1		1	2			
+pliszka siwa			24	36	24	8	17	24	200	14		
+pliszka zolta		1		8	258	15	2	12	11			
+poklaskwa					8	5			1			
+pokrzywnica			11	5					4		1	
+potrzeszcz			1	1	3	1					1	
+potrzos		5	17	13		16	2	3	8	6		
+przepiorka					1							
+pustulka	2	3	4	99	28			4				1
+puszczyk	2	1	4	3	3	1		1			1	
+raniuszek	44		581	20					5	1	34	31
+remiz					2	9	3	12	2			
+rokitniczka				6	3	15	1	1	1			
+rozeniec			6	1	2				33	3	9	
+rudzik	5	3	15	27	8		1	3	12	45		4
+rybitwa bialoczelna					2		2					
+rybitwa czarna					19			3				
+rybitwa czubata				13	2		1	30				2
+rybitwa rzeczna				5	20	9		6	7	4		
+rybitwa wielkodzioba					2				5			
+rybolow				2	6				1			
+rzepoluch											50	
+samotnik				7		1		4	1			
+sierpowka	24	24	10	25	21	9	3	5	4	67	41	27
+sieweczka obrozna				1	4			16	18	1		
+sieweczka rzeczna				4	11	3	1	1				
+siewka zlota				6					1401	600		
+siewnica					2	1	1	1	1	15		
+sikora uboga	44	21	12	6				3	1	16	1	9
+siniak			108	13	5	1			5			
+skowronek	1	14	261	24	9	8	4	8	3			
+slonka	1		1				1					
+slowik szary					4	4						
+smieszka	381	31	261	184	160	9	1	47	57	144	200	31
+sniegula		57									1	3
+sojka	81	44	19	344	12	2		5	156	74	13	20
+sokol wedrowny	2								1	1		1
+sosnowka	4	2			6							
+spiewak			8	25	3	1	1	2	1	71		
+sroka	82	33	165	57	50	7	12	8	6	81	50	69
+srokosz		1	1						1	1	2	
+strumieniowka						7						
+strzyzyk	3	3	7	3	5			3	2	2	3	1
+swiergotek drzewny				10	8				5			
+swiergotek lakowy			19	7	32	9			1	4		
+swiergotek nadmorski						1						2
+swiergotek polny					1							
+swiergotek rdzawogardly					8							
+swierszczak					5	8						
+swistun	1		44	69	5	20		7	231	42	2	
+swistunka lesna					6			1				
+szczygiel	65	44	84	120	25	5	12		32	50	23	13
+szlachar	51	68	146	37	27					5	2	3
+szlamnik								6	21			
+szpak		10	2820	409	99	50	71	436	225	585	89	
+trzciniak					16	3			1			
+trzcinniczek					1	7		1				
+trzmielojad					1	1	8	4	2			
+trznadel	55	82	55	27	5	4	7	19	23	136	180	174
+uhla	31	512	305	115	97	1	1			85		
+wasatka						1				8		
+wilga					2	3						
+wodnik					3	2		5				
+wrobel	90	26	38	72	87	2	7	89	44	38	7	51
+wrona siwa	73	105	837	112	101	3	7	23	21	49	29	33
+zaganiacz					1	4			1			
+zieba	32	16	11982	29793	12	2	2	2	32	4	3	3
+zimorodek	1							1	3	2		10
+zuraw		2	262	396	206	53	4	21	254	426	
+5.4
+lokalizacja
+Elblag
+Kadyny
+Krynica Morska
+Lebork - Park Chrobrego	

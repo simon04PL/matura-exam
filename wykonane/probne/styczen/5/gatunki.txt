@@ -1,0 +1,222 @@
+ID_gatunku	nazwa_zwyczajowa
+1	alczyk
+2	alka
+3	batalion
+4	bazant
+5	bazant zlocisty
+6	bak
+7	bernikla bialolica
+8	bialorzytka
+9	biegus krzywodzioby
+10	biegus malutki
+11	biegus maly
+12	biegus morski
+13	biegus plaskodzioby
+14	biegus rdzawy
+15	biegus zmienny
+16	bielaczek
+17	bielik
+18	blotniak lakowy
+19	blotniak stawowy
+20	blotniak zbozowy
+21	bocian bialy
+22	bocian czarny
+23	bogatka
+24	brodziec piskliwy
+25	brodziec sniady
+26	brzegowka
+27	brzeczka
+28	cierniowka
+29	cyraneczka
+30	cyranka
+31	czajka
+32	czapla biala
+33	czapla siwa
+34	czarnoglowka
+35	czarnowron
+36	czeczotka
+37	czernica
+38	czubatka
+39	czyz
+40	derkacz
+41	drozdzik
+42	drzemlik
+43	dymowka
+44	dzieciol czarny
+45	dzieciol duzy
+46	dzieciol sredni
+47	dzieciol zielonosiwy
+48	dzieciol zielony
+49	dzieciolek
+50	dziwonia
+51	dzwoniec
+52	edredon
+53	gajowka
+54	gawron
+55	gagol
+56	gasiorek
+57	gegawa
+58	ges bialoczelna
+59	ges zbozowa
+60	gil
+61	glowienka
+62	golab miejski
+63	grubodziob
+64	grzywacz
+65	helmiatka
+66	jarzebatka
+67	jastrzab
+68	jemioluszka
+69	jer
+70	jerzyk
+71	kamusznik
+72	kania czarna
+73	kania ruda
+74	kapturka
+75	karolinka
+76	kawka
+77	klaskawka
+78	kobczyk
+79	kobuz
+80	kokoszka
+81	kopciuszek
+82	kormoran
+83	kos
+84	kowalik
+85	krakwa
+86	kretoglow
+87	krogulec
+88	kropiatka
+89	kruk
+90	krwawodziob
+91	krzyzodziob swierkowy
+92	krzyzowka
+93	kszyk
+94	kukulka
+95	kulczyk
+96	kulik wielki
+97	kuropatwa
+98	kwiczol
+99	kwokacz
+100	lerka
+101	lodowka
+102	labedz czarnodzioby
+103	labedz krzykliwy
+104	labedz niemy
+105	leczak
+106	lozowka
+107	lyska
+108	makolagwa
+109	markaczka
+110	mazurek
+111	mewa bialoglowa
+112	mewa blada
+113	mewa czarnoglowa
+114	mewa mala
+115	mewa siodlata
+116	mewa siwa
+117	mewa srebrzysta
+118	mewa zoltonoga
+119	modraszka
+120	mucholowka mala
+121	mucholowka szara
+122	mucholowka zalobna
+123	mysikrolik
+124	myszolow
+125	myszolow wlochaty
+126	nur czarnoszyi
+127	nur rdzawoszyi
+128	nurnik
+129	nuroges
+130	nurzyk
+131	ogorzalka
+132	ohar
+133	oknowka
+134	orlik krzykliwy
+135	orzechowka
+136	ostrygojad
+137	paszkot
+138	pelzacz lesny
+139	pelzacz ogrodowy
+140	perkoz dwuczuby
+141	perkoz rdzawoszyi
+142	perkoz rogaty
+143	perkozek
+144	piaskowiec
+145	piecuszek
+146	piegza
+147	pierwiosnek
+148	pleszka
+149	pliszka cytrynowa
+150	pliszka gorska
+151	pliszka siwa
+152	pliszka zolta
+153	plaskonos
+154	platkonog szydlodzioby
+155	poklaskwa
+156	pokrzywnica
+157	potrzeszcz
+158	potrzos
+159	przepiorka
+160	pustulka
+161	puszczyk
+162	raniuszek
+163	remiz
+164	rokitniczka
+165	rozeniec
+166	rudzik
+167	rybitwa bialoczelna
+168	rybitwa czarna
+169	rybitwa czubata
+170	rybitwa rzeczna
+171	rybitwa wielkodzioba
+172	rybolow
+173	rzepoluch
+174	samotnik
+175	sierpowka
+176	sieweczka obrozna
+177	sieweczka rzeczna
+178	siewka zlota
+179	siewnica
+180	sikora uboga
+181	siniak
+182	skowronek
+183	slonka
+184	slowik szary
+185	sokol wedrowny
+186	sosnowka
+187	sojka
+188	sroka
+189	srokosz
+190	strumieniowka
+191	strzyzyk
+192	szczygiel
+193	szlachar
+194	szlamnik
+195	szpak
+196	smieszka
+197	sniegula
+198	spiewak
+199	swiergotek drzewny
+200	swiergotek lakowy
+201	swiergotek nadmorski
+202	swiergotek polny
+203	swiergotek rdzawogardly
+204	swierszczak
+205	swistun
+206	swistunka lesna
+207	trzciniak
+208	trzcinniczek
+209	trzmielojad
+210	trznadel
+211	uhla
+212	wasatka
+213	wilga
+214	wodnik
+215	wrona siwa
+216	wrobel
+217	zaganiacz
+218	zieba
+219	zimorodek
+220	zniczek
+221	zuraw

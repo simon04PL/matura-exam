@@ -1,0 +1,31 @@
+ID_lokalizacji	lokalizacja	powiat
+1	Cieplewo	gdanski
+2	Elblag	elblaski
+3	Elganowo	gdanski
+4	Kielpino	kartuski
+5	Gorki Zachodnie	gdanski
+6	Hel	pucki
+7	Jezioro Zarnowieckie	pucki
+8	Kadyny	elblaski
+9	Koscierzyna	koscierski
+10	Krynica Morska	nowodworski
+11	Lebork - Park Chrobrego	leborski
+12	Lisewo Malborskie	malborski
+13	Lebno	wejherowski
+14	Male Swornegacie	chojnicki
+15	Moscie Blota	pucki
+16	Gdansk - Park Oliwski	gdanski
+17	Jastarnia - plaza	pucki
+18	Lubiatowo - plaza	wejherowski
+19	Zeblewo	wejherowski
+20	Puck	pucki
+21	Rezerwat Beka	pucki
+22	Rumia	wejherowski
+23	Tadzino	wejherowski
+24	Ujscie Wisly Smialej, Sobieszewo	gdanski
+25	Robakowo	wejherowski
+26	Luzino	wejherowski
+27	Wejherowo - park miejski	wejherowski
+28	Rewa	pucki
+29	Starogard Gdanski	starogardzki
+30	Kuznica	pucki

@@ -1,0 +1,6 @@
+62.1: najwiekszy: 777044 najmniejszy: 1002
+62.2: dlugosc: 6 pierwszy: 639
+62.3:
+160
+357
+63.4: przed zamiana: 411 po zamianie: 625

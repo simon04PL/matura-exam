@@ -1,0 +1,2 @@
+1.2: 247
+1.3 pierwszy wyraz: 991660 a dlugosc: 234

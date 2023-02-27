@@ -1,0 +1,10 @@
+6.1	13		
+6.2	8289356		
+6.3	ilość wody:	1303938	
+	dzień:	sobota, 20 wrzesień 2014	
+6.4	data	ile pobrano z wodociągów	ile odprowadzono do kanalizacji
+	03.maj	176193	0
+	10.maj	0	75000
+	17.maj	109538	0
+	24.maj	354118	0
+	31.maj	500000	0
