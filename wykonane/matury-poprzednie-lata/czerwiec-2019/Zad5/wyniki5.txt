@@ -1,0 +1,12 @@
+5.1	data	06.05.2015		
+	ile wody dolano	13172		
+5.3	miesiąc	ile dolano	ile m3	koszt
+	kwi	0	0	0
+	maj	13172	14	164,36
+	cze	89444	90	1056,6
+	lip	217938	218	2559,32
+	sie	310099	311	3651,14
+	wrz	112774	113	1326,62
+5.4	temperatura <=15	88		
+	temperatura >15 a opady <=0,61	73		
+	temperatura >15 a opady <=0,61	22		

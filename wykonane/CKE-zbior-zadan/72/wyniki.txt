@@ -1,0 +1,9 @@
+72.1: liczba takich wyrazow: 70 pierwszy taki wyraz: feycznvjtboxfx, gthzgbpglrwjqxqlculgwzdhuevrmvssozrwdjcqcb
+72.2:
+ cale wyrazy: kxazlp, kxazlpe fragment powtarzajacy sie: kxazlp fragment dodany: e
+ cale wyrazy: ifvjhuqvh, ifvjhuqvhcupzcpw fragment powtarzajacy sie: ifvjhuqvh fragment dodany: cupzcpw
+ cale wyrazy: aznqxr, aznqxryrbgshtceaylwak fragment powtarzajacy sie: aznqxr fragment dodany: yrbgshtceaylwak
+72.3: najdluzsze takie zakonczenie: 15
+ pary ktore osiagnely taka dlugosc: zccvywdcmjrdokqzcnayixplhkrf, sarkqzcnayixplhkrf
+ pary ktore osiagnely taka dlugosc: iokvlepqzeyvycfjkliiutmzqawwjxgf, dfcfyddwodduznkmivqxnrdliiutmzqawwjxgf
+ pary ktore osiagnely taka dlugosc: psmwjyystgwchofokzvmkmgusfakroambngky, mabgusfakroambngky

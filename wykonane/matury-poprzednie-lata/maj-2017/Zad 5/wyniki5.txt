@@ -1,0 +1,25 @@
+5.1
+a)
+Rodzaj_meczu	PoliczOfIdentyfikator
+L	113
+P	25
+T	6
+
+b)
+PoliczOfIdentyfikator	rok
+21	2007
+
+5.2
+Nazwa
+Nocne Pumy
+Zwinne Mewy
+
+5.3
+Wygrane	PoliczOfIdentyfikator
+przegrana	452
+remis	170
+wygrane	579
+
+5.4
+PoliczOfNr_licencji
+22

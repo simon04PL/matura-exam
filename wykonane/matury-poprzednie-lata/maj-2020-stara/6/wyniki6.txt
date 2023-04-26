@@ -1,0 +1,28 @@
+6.1
+PoliczOfIdentyfikator
+41
+
+6.2
+Wyr1	PoliczOfIdentyfikator
+E	391
+F	519
+I	1060
+
+6.3
+ID_klienta	klient	miejscowosc
+I1261	Rafal Prymus	Zielona
+I1353	Magdalena Siarkowska	Leszno
+
+6.4
+nazwa uslugi	klient	data_zakonczenia
+biuro 100	Barbara Gaweda	2022-05-01
+backup mini	Przemyslaw Sarnowski	2022-05-02
+poczta indywidualna	Marcin Wozniak	2022-05-04
+poczta profesjonalna	Szkola Podstawowa 93	2023-04-30
+
+6.5
+ID_klienta
+E1307
+F1038
+F1205
+I1215
