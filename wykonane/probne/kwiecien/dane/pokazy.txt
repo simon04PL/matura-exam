@@ -1,0 +1,59 @@
+id_pokazu	temat_pokazu	id_sali	godz_rozp	godz_zak
+1	w zdrowym ciele zdrowy duch	1	10:00	12:00
+2	turniej w pilkarzyki	2	09:00	13:00
+3	areobik	3	10:00	13:00
+4	samorzad uczniowski	4	09:00	13:00
+5	jak przygotowac dobra konferencje	5	10:00	12:00
+6	tajemnice dobrego zdjecia	6	10:00	13:00
+7	gry w konsoli	9	12:00	13:00
+8	gry 2D w oparciu o gui	9	09:00	10:00
+9	gry 3D	9	10:00	12:00
+10	dlaczego C++ jest najlepszy	10	09:00	11:00
+11	robotyka w szkole sredniej	10	11:00	12:00
+12	poznaj historie naszej szkoly	12	10:00	12:00
+13	nasz teatrzyk	16	11:00	13:00
+14	wspolpraca z teatrem miniatura	16	09:00	11:00
+15	sztuka debatowania	17	10:00	12:00
+16	quiz jezykowy	18	10:00	11:00
+17	tworczosc literacka naszych uczniow	18	11:00	12:00
+18	co robimy na kolku geograficznym	19	11:00	12:00
+19	jak zwiedzamy europejskie stolice	19	12:00	13:00
+20	matematyka i geografia	21	10:00	12:00
+21	reaktor jadrowy - zbuduj sam	23	09:00	10:00
+22	zakrecony uczen - dlaczego moment bezwladnosci jest wazny	23	10:00	11:00
+23	wymien gniazdko - prad elektryczny w zyciu codziennym	23	11:00	12:00
+24	jak robi sie prad	23	12:00	13:00
+25	puszczanie zajaczka - czyli nieco o optyce geometrycznej	24	09:00	10:00
+26	eureka - dlaczego statki plywaja	24	10:00	11:00
+27	niezwykle fale dzwiekowe	24	11:00	12:00
+28	sygnalizacja swietlna - arduino	25	09:00	09:30
+29	termometr cyfrowy - arduino	25	09:30	10:00
+30	silnik krokowy - arduino	25	10:00	10:30
+31	serwo modelarskie - arduino	25	10:30	11:00
+32	rozpoznawanie gestow	25	11:00	11:30
+33	rozpoznawanie ksztaltow	25	11:30	12:00
+34	rozpoznawanie twarzy	25	12:00	12:30
+35	punkt informacyjny	35	09:00	13:00
+36	nasze wycieczki do sadu	36	11:00	13:00
+37	nasi czlonkowie mlodziezowej rady miasta	37	12:00	13:00
+38	zjawiska chemiczne w zyciu codziennym	109	09:00	10:00
+39	magiczne wlasciwosci drozdzy	109	10:00	11:00
+40	dobre zasady to zero kwasow	109	11:00	12:00
+41	pierwsza pomoc na pomoc	110	09:00	11:00
+42	jak inwestowac i nie zbankrutowac	110	11:00	12:00
+43	jak uczyc sie skutecznie jezykow obcych	202	10:00	13:00
+44	dlaczego hiszpanski	204	11:00	13:00
+45	jezyki wymarle	206	12:00	13:00
+46	nowoczesne metody uczenia sie jezykow obcych	203	10:00	13:00
+47	ciekawe wlasciwosci mydla	207	09:00	10:00
+48	czy wiesz, ze sol kuchenna to chlorek sodu	207	10:00	11:00
+49	dlaczego nalezy czytac etykiety produktow spozywczych	209	10:00	11:00
+50	jak zrobic zloto	209	11:00	12:00
+51	wydrukuj sobie dom - jak dziala druk 3D	214	09:00	10:00
+52	modelowanie 3D	214	10:00	12:00
+53	modelowanie 2D	213	10:00	12:00
+54	serwer - nasza chluba	215	09:00	13:00
+55	matematyka w informatyce	302	09:00	10:00
+56	informatyka w matematyce	302	10:00	11:00
+57	dlaczego matematyka jest piekna	302	11:00	12:00
+58	zawody matematyczne	305	09:00	13:00

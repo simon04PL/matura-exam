@@ -1,0 +1,39 @@
+64.1: Liczba takich obrazkow: 13 Najwiecej czarnych pixeli: 381
+64.2: Liczba obrzazow rekurencyjnych: 60 Pierwszy ciag rekurencyjny:
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+11111111111111111111
+00000000000000000000
+
+64.3: poprawne: 171 naprawialny: 14 nienaprawialny: 15 maxymalna ilosc niepoprawnych: 7
+64.4:
+ Nr. obrazka: 14 Nr. wiersza do zmiany: 1 Nr. kolumny do zmiany: 15
+ Nr. obrazka: 19 Nr. wiersza do zmiany: 4 Nr. kolumny do zmiany: 20
+ Nr. obrazka: 26 Nr. wiersza do zmiany: 21 Nr. kolumny do zmiany: 13
+ Nr. obrazka: 29 Nr. wiersza do zmiany: 2 Nr. kolumny do zmiany: 8
+ Nr. obrazka: 33 Nr. wiersza do zmiany: 15 Nr. kolumny do zmiany: 21
+ Nr. obrazka: 115 Nr. wiersza do zmiany: 21 Nr. kolumny do zmiany: 14
+ Nr. obrazka: 116 Nr. wiersza do zmiany: 21 Nr. kolumny do zmiany: 13
+ Nr. obrazka: 129 Nr. wiersza do zmiany: 21 Nr. kolumny do zmiany: 14
+ Nr. obrazka: 131 Nr. wiersza do zmiany: 10 Nr. kolumny do zmiany: 7
+ Nr. obrazka: 143 Nr. wiersza do zmiany: 7 Nr. kolumny do zmiany: 15
+ Nr. obrazka: 154 Nr. wiersza do zmiany: 7 Nr. kolumny do zmiany: 7
+ Nr. obrazka: 161 Nr. wiersza do zmiany: 21 Nr. kolumny do zmiany: 17
+ Nr. obrazka: 162 Nr. wiersza do zmiany: 21 Nr. kolumny do zmiany: 16
+ Nr. obrazka: 187 Nr. wiersza do zmiany: 21 Nr. kolumny do zmiany: 18

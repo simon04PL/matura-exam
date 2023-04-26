@@ -100,8 +100,16 @@ int main(){
         }else if(Zad3Temp<=1&&Zad3Temp1<=1){
         	Zad3NP++;
         	Zad4.push_back(i+1);
-        	Zad4W.push_back(Zad4TempW+1);
-        	Zad4K.push_back(Zad4TempK+1);
+        	if(Zad3Temp==1&&Zad3Temp1==1){
+        		Zad4W.push_back(Zad4TempW+1);
+        		Zad4K.push_back(Zad4TempK+1);
+			}else if(Zad3Temp==1){
+				Zad4W.push_back(21);
+        		Zad4K.push_back(Zad4TempK+1);
+			}else{
+				Zad4W.push_back(Zad4TempW+1);
+        		Zad4K.push_back(21);
+			}
         	Zad4TempW=20;
         	Zad4TempK=20;
 		}else{
