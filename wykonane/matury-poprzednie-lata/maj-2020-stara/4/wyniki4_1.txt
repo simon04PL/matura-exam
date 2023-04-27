@@ -1,0 +1,1 @@
+ile liczb pierwszych 501 max liczba: 99767 min liczba: 311

@@ -1,0 +1,13 @@
+5.1
+id_sali	PoliczOfid_pokazu
+25	7
+
+5.2
+
+5.3
+id_pokazu	temat_pokazu	imie	nazwisko
+21	reaktor jadrowy - zbuduj sam	Aureliusz	Duda
+21	reaktor jadrowy - zbuduj sam	Bernadetta	Krajewska
+21	reaktor jadrowy - zbuduj sam	Ksawery	Lis
+21	reaktor jadrowy - zbuduj sam	Olaf	Bak
+21	reaktor jadrowy - zbuduj sam	Piotr	Baran

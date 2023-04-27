@@ -1,0 +1,36 @@
+5.1
+Id_rosliny	Nazwa	SumaOfLiczba_sadzonek
+143	Viola odorata Plena	123
+
+5.2
+Imie	Nazwisko	Id_klienta	kwota
+Kacper	Ogrodowczyk	433	1012
+Nadia	Jezierska	482	1103
+Paulina	Kwidzinska	266	1250
+
+5.3
+Id_rosliny	Nazwa	Cena
+568	Hepatica nobilis Rubra Plena	50
+459	Staphyllea pinnata	30
+647	Podophyllum peltatum	20
+435	Hibiscus Ketmia Mouscheutos Alba	15
+673	Echinacea Tomato Soup	12
+555	Rodgersia podophylla	10
+273	Tricyrtis hirta	8
+274	Tricyrtis hirta  Alba	8
+358	Spartina pecfinata Aureomarginata	8
+356	Penisetum alopecuroides  Little Bunny	7
+497	Aster pringlei	6
+674	Echinacea Black Beauty	6
+648	Salvia pratensis	6
+74	Aster pyrenaeus  Lutetia	5
+344	Carex buchananii	5
+343	Carex Comans	5
+306	Ompholodes verna	5
+265	Symphytum grandiflorum  Goldsmith	5
+76	Aster macrophyllus	5
+604	Phlox subulata	4
+605	Phlox subulata	4
+319	Primula japonica	4
+646	Origanum	4
+268	Tradescentia x andersoniana  Karminglut	4

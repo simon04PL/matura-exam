@@ -1,19 +1,19 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include <string>
 
 using namespace std;
 
-int l, Temp, Zad2=0, Zad3L=0;
+int l, Temp, Zad2=0, Zad3L=0, z=0, Zad3Min=1000000, Zad3Max=0;
 string x[1000];
+bool czyByla=false;
 
 bool czyPierwsza(int k){
 	if(k==2){
 		return 1;
 	}
-	for(int i=3;i<=Temp;i++){
-		if(Temp%i==0){
+	for(int i=2;i<k;i++){
+		if(k%i==0){
 			return 0;
 		}
 	}
@@ -57,28 +57,41 @@ int main(){
 		}
 	}
 	//63.3
-	for(int i=0;i<=999;i++){
+	for(int i =0;i<=999;i++){
 		Temp=stoi(x[i],nullptr,2);
 		for(int j=2;j<=Temp;j++){
-			if(Temp%j==0&&czyPierwsza(j)==1){
-				Zad3.push_back(j);
-				if(j*j==Temp){
-					Zad3L++;
-				}
-				for(int z=0;z<=Zad3.size();z++){
-					if(j*Zad3[z]==Temp){
-						Zad3L++;
+			if(Temp%j==0){
+				if(czyPierwsza(j)==1){
+					Zad3.push_back(j);
+					for(int v=0;v<=z;v++){
+						if(Zad3[v]*j==Temp){
+							Zad3L++;
+							if(Zad3Min>Temp){
+								Zad3Min=Temp;
+							}
+							if(Zad3Max<Temp){
+								Zad3Max=Temp;
+							}
+							czyByla=true;
+							break;
+						}
+					}
+					z++;
+					if(czyByla==true){
+						czyByla=false;
+						break;
 					}
 				}
 			}
 		}
 		Zad3.clear();
+		z=0;
 	}
 	cout<<"63.1: "<<endl;
 	for(int i=0;i<=Zad1.size()-1;i++){
 		cout<<Zad1[i]<<endl;
 	}
 	cout<<"63.2: "<<Zad2<<endl;
-	cout<<"63.3: liczba wszystkich: "<<Zad3L;
+	cout<<"63.3: ilosc takich ciagow: "<<Zad3L<<" minimalny: "<<Zad3Min<<" maksymalny: "<<Zad3Max;
 	return 0;
 }
