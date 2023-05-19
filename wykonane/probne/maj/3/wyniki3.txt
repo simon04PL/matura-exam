@@ -1,0 +1,7 @@
+3.2:
+Luk parzystych jest: 1014
+Luk nieparzystych jest: 1008
+3.3:
+Liczba nieuporzadkowanych par wynosi: 1037727
+3.4:
+Dlugosc najdluzszego podciagu malejacego w tym zbiorze liczb wynosi: 85

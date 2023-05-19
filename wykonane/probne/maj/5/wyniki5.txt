@@ -1,0 +1,48 @@
+5.1
+imie	nazwisko	PoliczOfIdentyfikator
+Artur	Lipinski	16
+Joanna	Krankowska	16
+Magdalena	Wronikowska	19
+Marcin	Wirowski	16
+Marta	Wilkonska	18
+
+5.2
+miejsce_docelowe	4	5	6
+Barcelona	23	20	33
+Bolonia	9	17	16
+Bristol	10	16	32
+Cork	9	14	23
+Doncaster-Sheffield	13	46	26
+Dortmund	16	12	14
+Dublin	11	18	12
+Dusseldorf	45	59	43
+East Midlands	4	9	7
+Eindhoven	11	13	21
+Frankfurt n. Menem	24	19	8
+Gdansk	17	12	16
+Glasgow	35	46	22
+Kopenhaga	40	38	46
+Krakow	10	18	7
+Liverpool	15	30	30
+Lizbona	2		
+Londyn Luton	36	57	53
+Londyn Stansed	40	42	53
+Mediolan	5	22	18
+Monachium	29	33	43
+Oslo Rygge	21	10	10
+Oslo Torp	7	27	12
+Paryz	11	7	12
+Praga	5	6	7
+Rzym	23	14	14
+Shannon	25		16
+Warszawa	58	93	57
+Warszawa Modlin	37	68	64
+Zurych	14	11	9
+
+5.3
+id_lotu	miejsce_docelowe
+21	Bolonia
+99	Barcelona
+316	Warszawa
+522	Liverpool
+987	Oslo Torp
