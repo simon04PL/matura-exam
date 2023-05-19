@@ -1,0 +1,12 @@
+5.1	numer telefonu	liczba wykonanych polaczen
+	4546455	8
+	3505978	7
+	4657345	6
+5.2	stacjonarne	1524
+	komurkowe	624
+5.3	192	
+5.4	abonament	50
+	komórka	240
+	stacjonarny	610
+	za granica	967
+	razem	1867

@@ -22,12 +22,17 @@ void Zad1_3(){
 }
 void Zad1_4(){
 	for(int i=1;i<=99999;i++){
+
+		suma=A2[i];
+		for(int j=i-1;j>=0;j--){
+			suma+=A2[j];
 		cout<<i<<endl;
 		for(int j=0;j<=i-1;j++){
 			suma=0;
 			for(int k=j;k<=i;k++){
 				suma+=A2[k];
 			}
+
 			if(Max2<suma){
 				Max2=suma;
 				MaxI=i+1;
@@ -50,5 +55,7 @@ int main(){
 	Zad1_3();
 	Zad1_4();
 	cout<<"1.3: "<<Max<<endl;
+	cout<<"1.4: max poczatek: "<<MaxJ<<" Max koniec: "<<MaxI<<endl;
+	cout<<"1.4: max i: "<<MaxI<<" MaxJ: "<<MaxJ<<endl;
 	cout<<"1.4: max i: "<<MaxI<<" MaxJ: "<<MaxJ<<endl;
 }

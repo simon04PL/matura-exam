@@ -1,0 +1,2 @@
+Najwieksza liczba roznych lokali jest w miescie: Berlin, jest ich: 35
+Najmniejsza liczba roznych lokalijest w: Kolonia, a jest ich: 18

@@ -1,0 +1,30 @@
+4.1	program	ile osob skorzystalo z danego programu
+	1	11
+	2	9
+	3	9
+	4	7
+	5	6
+	6	10
+	7	11
+	8	6
+	9	12
+	10	8
+	11	16
+	12	14
+	13	7
+	14	12
+	15	6
+4.2	z danego miasta jedo auto	78
+	z danego miasta dwa auta	21
+4.3	a)	114
+	b)	19:54
+4.4	godzina pracy myjni	ile klientów przyjechalo o danej godzinie
+	1	53
+	2	61
+	3	58
+	4	66
+	5	51
+	6	62
+4.5	numer rejestracyjny samochodu który jako drugi zrezygnował	KP566
+	ile klientów zrezygnowało z kolejnki	44
+	ile max osób rezygnowało jedna po drugiej	3

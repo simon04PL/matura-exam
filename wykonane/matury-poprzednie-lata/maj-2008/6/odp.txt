@@ -1,0 +1,23 @@
+a)
+Ile wlascicieli mialo wypadek
+326
+
+b)
+rejestracja	Imie	nazwisko	straty
+PKR9139	Tomasz	Misiak	10486
+
+c)
+Rok	SumaOfstraty
+2006	194741
+2007	227446
+
+d)
+marka	PoliczOfID
+fiat	145
+
+e)
+wielkosc	PoliczOfID
+A	138
+B	115
+C	133
+D	114
